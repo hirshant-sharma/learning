@@ -13,6 +13,7 @@
     <body bgcolor="dark blue">
       <center>
         <h1><center><details>for sumbit you are form</details></center> </h1>
+	  <h2><center>for more information click here</center> </h2>
       </center>
     </body>
 </html>
